@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Chapter1\VBarcade\VBarcade\bin\Debug\VBarcade.exe.config
+C:\Users\student\Desktop\Chapter1\VBarcade\VBarcade\bin\Debug\VBarcade.exe
+C:\Users\student\Desktop\Chapter1\VBarcade\VBarcade\bin\Debug\VBarcade.pdb
+C:\Users\student\Desktop\Chapter1\VBarcade\VBarcade\bin\Debug\VBarcade.xml
+C:\Users\student\Desktop\Chapter1\VBarcade\VBarcade\obj\Debug\VBarcade.vbprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Chapter1\VBarcade\VBarcade\obj\Debug\VBarcade.Home.resources
+C:\Users\student\Desktop\Chapter1\VBarcade\VBarcade\obj\Debug\VBarcade.Resources.resources
+C:\Users\student\Desktop\Chapter1\VBarcade\VBarcade\obj\Debug\VBarcade.vbproj.GenerateResource.Cache
+C:\Users\student\Desktop\Chapter1\VBarcade\VBarcade\obj\Debug\VBarcade.exe
+C:\Users\student\Desktop\Chapter1\VBarcade\VBarcade\obj\Debug\VBarcade.xml
+C:\Users\student\Desktop\Chapter1\VBarcade\VBarcade\obj\Debug\VBarcade.pdb
+C:\Users\student\Desktop\vbproj\VBarcade\bin\Debug\VBarcade.exe.config
+C:\Users\student\Desktop\vbproj\VBarcade\obj\Debug\VBarcade.exe
+C:\Users\student\Desktop\vbproj\VBarcade\obj\Debug\VBarcade.xml
+C:\Users\student\Desktop\vbproj\VBarcade\obj\Debug\VBarcade.pdb
