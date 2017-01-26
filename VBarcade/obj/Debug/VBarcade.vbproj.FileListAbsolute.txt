@@ -13,3 +13,15 @@ C:\Users\student\Desktop\vbproj\VBarcade\bin\Debug\VBarcade.exe.config
 C:\Users\student\Desktop\vbproj\VBarcade\obj\Debug\VBarcade.exe
 C:\Users\student\Desktop\vbproj\VBarcade\obj\Debug\VBarcade.xml
 C:\Users\student\Desktop\vbproj\VBarcade\obj\Debug\VBarcade.pdb
+D:\VB\VBcalc\VBarcade\bin\Debug\VBarcade.exe.config
+D:\VB\VBcalc\VBarcade\obj\Debug\VBarcade.exe
+D:\VB\VBcalc\VBarcade\obj\Debug\VBarcade.xml
+D:\VB\VBcalc\VBarcade\obj\Debug\VBarcade.pdb
+D:\VB\VBcalc\VBarcade\bin\Debug\VBarcade.exe
+D:\VB\VBcalc\VBarcade\bin\Debug\VBarcade.pdb
+D:\VB\VBcalc\VBarcade\bin\Debug\VBarcade.xml
+D:\VB\VBcalc\VBarcade\obj\Debug\VBarcade.vbprojResolveAssemblyReference.cache
+D:\VB\VBcalc\VBarcade\obj\Debug\VBarcade.Home.resources
+D:\VB\VBcalc\VBarcade\obj\Debug\VBarcade.frmHangman.resources
+D:\VB\VBcalc\VBarcade\obj\Debug\VBarcade.Resources.resources
+D:\VB\VBcalc\VBarcade\obj\Debug\VBarcade.vbproj.GenerateResource.Cache
