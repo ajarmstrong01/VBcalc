@@ -85,6 +85,12 @@
     <Compile Include="frmHangman.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmTTT.Designer.vb">
+      <DependentUpon>frmTTT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTTT.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -107,6 +113,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmHangman.resx">
       <DependentUpon>frmHangman.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTTT.resx">
+      <DependentUpon>frmTTT.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

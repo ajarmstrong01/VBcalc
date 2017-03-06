@@ -75,7 +75,7 @@ Partial Class Home
         Me.gBtn4.Name = "gBtn4"
         Me.gBtn4.Size = New System.Drawing.Size(75, 23)
         Me.gBtn4.TabIndex = 4
-        Me.gBtn4.Text = "Amanda"
+        Me.gBtn4.Text = "Tic Tac Toe"
         Me.gBtn4.UseVisualStyleBackColor = True
         '
         'gBtn2
